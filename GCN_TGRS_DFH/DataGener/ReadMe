@@ -1,0 +1,9 @@
+
+This is a matlab toolbox for preparing the data for the network input.
+PS: please update and replace the route with your own one when running these functions in your PC. 
+More specifically, the generated data should be accordingly put into the folder of HSI_CNN or HSI_GCN.
+
+GCN_DataPreparation.m can be used to generate the input data of GCN
+miniGCN_DataPreparation.m can be used to generate the input data of our miniGCN
+2DCNN_DataPreparation.m can be used to generated the input data for CNN-based networks
+
