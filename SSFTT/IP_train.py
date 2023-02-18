@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import scipy.io as sio
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
@@ -8,7 +7,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from operator import truediv
-import spectral
+import get_cls_map
 import time
 import SSFTTnet
 
@@ -95,12 +94,12 @@ def create_data_loader():
     print('Data shape after PCA: ', X_pca.shape)
 
     print('\n... ... create data cubes ... ...')
-    X_pca, y = createImageCubes(X_pca, y, windowSize=patch_size)
+    X_pca, y_all = createImageCubes(X_pca, y, windowSize=patch_size)
     print('Data cube X shape: ', X_pca.shape)
     print('Data cube y shape: ', y.shape)
 
     print('\n... ... create train & test data ... ...')
-    Xtrain, Xtest, ytrain, ytest = splitTrainTestSet(X_pca, y, test_ratio)
+    Xtrain, Xtest, ytrain, ytest = splitTrainTestSet(X_pca, y_all, test_ratio)
     print('Xtrain shape: ', Xtrain.shape)
     print('Xtest  shape: ', Xtest.shape)
 
@@ -119,25 +118,23 @@ def create_data_loader():
     print('after transpose: Xtest  shape: ', Xtest.shape)
 
     # 创建train_loader和 test_loader
-    X = TestDS(X, y)
+    X = TestDS(X, y_all)
     trainset = TrainDS(Xtrain, ytrain)
     testset = TestDS(Xtest, ytest)
     train_loader = torch.utils.data.DataLoader(dataset=trainset,
                                                batch_size=BATCH_SIZE_TRAIN,
                                                shuffle=True,
-                                               drop_last=True
+                                               num_workers=0,
                                                )
     test_loader = torch.utils.data.DataLoader(dataset=testset,
                                                batch_size=BATCH_SIZE_TRAIN,
                                                shuffle=False,
                                                num_workers=0,
-                                               drop_last=True
                                               )
     all_data_loader = torch.utils.data.DataLoader(dataset=X,
                                                 batch_size=BATCH_SIZE_TRAIN,
                                                 shuffle=False,
                                                 num_workers=0,
-                                                drop_last=True
                                               )
 
     return train_loader, test_loader, all_data_loader, y
@@ -184,7 +181,7 @@ class TestDS(torch.utils.data.Dataset):
 def train(train_loader, epochs):
 
     # 使用GPU训练，可以在菜单 "代码执行工具" -> "更改运行时类型" 里进行设置
-    device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # 网络放到GPU上
     net = SSFTTnet.SSFTTnet().to(device)
     # 交叉熵损失函数
@@ -265,7 +262,7 @@ if __name__ == '__main__':
     tic1 = time.perf_counter()
     net, device = train(train_loader, epochs=100)
     # 只保存模型参数
-    torch.save(net.state_dict(),'SSFTTnet_params.pth')
+    torch.save(net.state_dict(), 'cls_params/SSFTTnet_params.pth')
     toc1 = time.perf_counter()
     tic2 = time.perf_counter()
     y_pred_test, y_test = test(device, net, test_loader)
@@ -293,7 +290,4 @@ if __name__ == '__main__':
         x_file.write('\n')
         x_file.write('{}'.format(confusion))
 
-
-
-
-
+    get_cls_map.get_cls_map(net, device, all_data_loader, y_all)
