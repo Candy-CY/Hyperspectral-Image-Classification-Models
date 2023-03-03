@@ -9,7 +9,7 @@
   
 " Star " 是对Candy工作的肯定与支持！💕  
   
-收录模型与文章对应如下:
+复现模型与其文章对应关系如下:
 * ASPC  
 Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training Samples  
 * CNN_Enhanced_GCN  
