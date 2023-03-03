@@ -7,16 +7,15 @@
   
 在此，也非常欢迎各位阅读者和我一起探讨遥感方向内的相关知识！  邮箱请联系：Candy_2000_0108@163.com！
 
-1. ASPC
-
+（1）ASPC
 Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training Samples
 （2）CNN_Enhanced_GCN  
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification
-3. CTN
+（3）CTN
 Convolutional Transformer Network for Hyperspectral Image Classification
-4. DPRN
+（4）DPRN
 Deep Pyramidal Residual Networks for Hyperspectral Image Classification
-5. DRGCN
+（5）DRGCN
 Dual Residual Graph Convolutional Network for Hyperspectral Image Classification
 6. ENL-FCN
 Efficient Deep Learning of Non-local Features for Hyperspectral Image Classification
