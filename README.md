@@ -6,11 +6,9 @@
 目前已经陆续整合了近几年高光谱图像分类的模型，仅供读者参考！如需详细解读，请移步论文作者源码进行阅读！  
   
 在此，也非常欢迎各位阅读者和我一起探讨遥感方向内的相关知识！  邮箱请联系：Candy_2000_0108@163.com！
-  
-1. ASPC
-  
+
+1. ASPC  
 Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training Samples
-  
 2. CNN_Enhanced_GCN
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification
 3. CTN
