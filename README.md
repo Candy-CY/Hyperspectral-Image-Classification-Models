@@ -12,6 +12,8 @@
 复现模型与其文章对应关系如下:
 * ASPC  
 Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training Samples  
+* CMR-CNN  
+Cross-Mixing Residual Network for Hyperspectral Image Classification
 * CNN_Enhanced_GCN  
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification  
 * CTN  
