@@ -20,6 +20,8 @@ CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Featur
 Convolutional Transformer Network for Hyperspectral Image Classification  
 * DBDA  
 Double-Branch Dual-Attention Mechanism Network for Hyperspectral Image Classification  
+* DDCD  
+LiteDenseNet: A Lightweight Network for Hyperspectral Image Classification  
 * DPRN  
 Deep Pyramidal Residual Networks for Hyperspectral Image Classification  
 * DRGCN  
