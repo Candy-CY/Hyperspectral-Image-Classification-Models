@@ -28,6 +28,8 @@ Deep Pyramidal Residual Networks for Hyperspectral Image Classification
 Dual Residual Graph Convolutional Network for Hyperspectral Image Classification  
 * ENL-FCN  
 Efficient Deep Learning of Non-local Features for Hyperspectral Image Classification  
+* F2HNN  
+Hyperspectral Image Classification Using Feature Fusion Hypergraph Convolution Neural Network
 * FSKNet  
 Faster hyperspectral image classification based on selective kernel mechanism using deep convolutional networks  
 * GCN_TGRS_DFH  
