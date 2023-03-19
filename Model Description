@@ -16,6 +16,8 @@ LiteDenseNet: A Lightweight Network for Hyperspectral Image Classification
 Deep Pyramidal Residual Networks for Hyperspectral Image Classification  
 * DRGCN  
 Dual Residual Graph Convolutional Network for Hyperspectral Image Classification  
+* DeepMatrixCapsules  
+Hyperspectral Image Classification Using Deep Matrix Capsules  
 * ENL-FCN  
 Efficient Deep Learning of Non-local Features for Hyperspectral Image Classification  
 * F2HNN  
