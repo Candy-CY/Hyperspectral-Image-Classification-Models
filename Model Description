@@ -8,6 +8,8 @@ Cross-Mixing Residual Network for Hyperspectral Image Classification
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification  
 * CTN  
 Convolutional Transformer Network for Hyperspectral Image Classification  
+* CVSSN  
+Exploring the Relationship between Center and Neighborhoods: Central Vector oriented Self-Similarity Network for Hyperspectral Image Classification  
 * DBDA  
 Double-Branch Dual-Attention Mechanism Network for Hyperspectral Image Classification  
 * DDCD  
