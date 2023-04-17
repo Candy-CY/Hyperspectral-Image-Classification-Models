@@ -50,6 +50,8 @@ Multilevel Superpixel Structured Graph U-Nets for Hyperspectral Image Classifica
 Multimodal Hyperspectral Unmixing Insights From Attention Networks  
 * Machine_Learning_Methods  
 No paper! The project uses the CNN models、the KNN method、the SVM method as classifier in hyperspectral image classification  
+* S3Net  
+S3Net: Spectral-Spatial Siamese Network for Few-Shot Hyperspectral Image Classification  
 * SACNet  
 Self-Attention Context Network Addressing the Threat of Adversarial Attacks for Hyperspectral Image Classification  
 * SSFTT  
