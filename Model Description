@@ -62,6 +62,8 @@ Spectral–Spatial Residual Network for Hyperspectral Image Classification
 Spatial-Spectral Transformer for Hyperspectral Image Classification  
 * SpectralFormer  
 SpectralFormer Rethinking Hyperspectral Image Classification With Transformers  
+* TP-Net  
+A-Triple-Path-Spectral-Spatial-Network-with-Interleave-Attention-for-Hyperspectral-Image-Classificat For HSI classification  
 * morphFormer   
 Spectral–Spatial Morphological Attention Transformer for Hyperspectral Image Classification  
 * pResNet-HSI  
