@@ -1,0 +1,10 @@
+发表文章存在笔误现象，实验结果表格中 MCVT的分类结果指的就是 MRViT的分类结果！
+@INPROCEEDINGS{10073347,
+  author={Cao, Ying and Wang, Yang and Yin, Zhijian and Yang, Zhen},
+  booktitle={2022 IEEE 22nd International Conference on Communication Technology (ICCT)}, 
+  title={Mixed Residual Convolutions with Vision Transformer in Hyperspectral Image Classification}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1595-1599},
+  doi={10.1109/ICCT56141.2022.10073347}}
