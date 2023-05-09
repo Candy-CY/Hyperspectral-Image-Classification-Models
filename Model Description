@@ -4,6 +4,8 @@ Attention-Based Second-Order Pooling Network for Hyperspectral Image Classificat
 Adaptive Mask Sampling and Manifold to Euclidean Subspace Learning with Distance Covariance Representation for Hyperspectral Image Classification  
 * ASPC  
 Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training Samples  
+* ASSMN  
+Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification  
 * CMR-CNN  
 Cross-Mixing Residual Network for Hyperspectral Image Classification
 * CNN_Enhanced_GCN  
