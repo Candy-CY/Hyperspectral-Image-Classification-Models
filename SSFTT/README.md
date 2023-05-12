@@ -1,3 +1,5 @@
+# 若觉得项目代码不完整，请移步作者源代码项目仓库！
+
 # PyTorch Demo of the Hyperspectral Image Classification method - SSFTT.
 
 Using the code should cite the following paper:
