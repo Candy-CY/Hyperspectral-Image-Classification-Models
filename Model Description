@@ -16,6 +16,8 @@ Convolutional Transformer Network for Hyperspectral Image Classification
 Exploring the Relationship between Center and Neighborhoods: Central Vector oriented Self-Similarity Network for Hyperspectral Image Classification  
 * DBDA  
 Double-Branch Dual-Attention Mechanism Network for Hyperspectral Image Classification  
+* DCN-T  
+Dual Context Network with Transformer for Hyperspectral Image Classification  
 * DDCD  
 LiteDenseNet: A Lightweight Network for Hyperspectral Image Classification  
 * DPRN  
