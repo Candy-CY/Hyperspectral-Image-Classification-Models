@@ -62,6 +62,8 @@ S3Net: Spectral-Spatial Siamese Network for Few-Shot Hyperspectral Image Classif
 Self-Attention Context Network Addressing the Threat of Adversarial Attacks for Hyperspectral Image Classification  
 * SSFTT  
 Spectral Spatial Feature Tokenization Transformer for Hyperspectral Image Classification  
+* SSGRN  
+Spectral-Spatial Global Graph Reasoning for Hyperspectral Image Classification  
 * SSRN  
 Spectral–Spatial Residual Network for Hyperspectral Image Classification  
 * SSTN  
