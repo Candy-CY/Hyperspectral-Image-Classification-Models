@@ -61,7 +61,6 @@ def main():
     parser.add_argument('--input_mode', type=str, default='part',
                         choices=['whole', 'part'],help='input setting')
     parser.add_argument('--input_size', nargs='+', type=int)
-    parser.add_argument('--ratio', nargs='+', type=float)
     parser.add_argument('--overlap_size', type=int, default=16,
                         help='size of overlap')
     parser.add_argument('--experiment-num', type=int, default=1,
@@ -174,15 +173,11 @@ def main():
     else:
         raise NotImplementedError
         
-    ratio_list = args.ratio
-
     for count in range(0, args.experiment_num):
-        
-        ratio = ratio_list[count]
 
         a = product(c, FLAG, All_data)
 
-        rows_num,trn_num,val_num,tes_num,pre_num=a.generation_num(labeled_data,rows_num,ratio)
+        rows_num,trn_num,val_num,tes_num,pre_num=a.generation_num(labeled_data,rows_num)
 
         #################################### trn_label #####################################
 
