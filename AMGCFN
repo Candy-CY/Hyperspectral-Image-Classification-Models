@@ -1,0 +1,34 @@
+# Hyperspectral Image Classification
+
+Attention Multihop Graph and Multiscale Convolutional Fusion Network for Hyperspectral Image Classification
+
+has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+
+## Abstract
+
+Convolutional neural networks (CNNs) for hyperspectral image (HSI) classification have generated good progress. Meanwhile, graph convolutional networks (GCNs) have also attracted considerable attention by using unlabeled data, broadly and explicitly exploiting correlations between adjacent parcels. However, the CNN with a fixed square convolution kernel is not flexible enough to deal with irregular patterns, while the GCN using the superpixel to reduce the number of nodes will lose the pixel-level features, and the features from the two networks are always partial. In this paper, to make good use of the advantages of CNN and GCN, we propose a novel multiple feature fusion model termed attention multi-hop graph and multi-scale convolutional fusion network (AMGCFN), which includes two sub-networks of multi-scale fully CNN and multi-hop GCN to extract the multi-level information of HSI. Specifically, the multi-scale fully CNN aims to comprehensively capture pixel-level features with different kernel sizes, and a multi-head attention fusion module is used to fuse the multi-scale pixel-level features. The multi-hop GCN systematically aggregates the multi-hop contextual information by applying multi-hop graphs on different layers to transform the relationships between nodes, and a multi-head attention fusion module is adopted to combine the multi-hop features. Finally, we design a cross attention fusion module to adaptively fuse the features of two sub-networks. AMGCFN makes full use of multi-scale convolution and multi-hop graph features, which is conducive to the learning of multi-level contextual semantic features. Experimental results on three benchmark HSI datasets show that AMGCFN has better performance than a few state-of-the-art methods.
+
+Early Access is available now at https://ieeexplore.ieee.org/document/10098209
+
+## Environment
+
+Python 3.9
+PyTorch >=1.11
+
+## Citation
+
+Please kindly cite the papers if this code is useful and helpful for your research.
+
+H. Zhou, F. Luo, H. Zhuang, Z. Weng, X. Gong and Z. Lin, "Attention Multi-hop Graph and Multi-scale Convolutional Fusion Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3265879.
+
+or
+
+@ARTICLE{10098209,
+author={Zhou, Hao and Luo, Fulin and Zhuang, Huiping and Weng, Zhenyu and Gong, Xiuwen and Lin, Zhiping},
+journal={IEEE Transactions on Geoscience and Remote Sensing},
+title={Attention Multi-hop Graph and Multi-scale Convolutional Fusion Network for Hyperspectral Image Classification},
+year={2023},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TGRS.2023.3265879}}
