@@ -1,9 +1,9 @@
 * A-SPN  
 Attention-Based Second-Order Pooling Network for Hyperspectral Image Classification  
-* AMS-M2ESL  
-Adaptive Mask Sampling and Manifold to Euclidean Subspace Learning with Distance Covariance Representation for Hyperspectral Image Classification  
 * AMGCFN  
 Attention Multihop Graph and Multiscale Convolutional Fusion Network for Hyperspectral Image Classification  
+* AMS-M2ESL  
+Adaptive Mask Sampling and Manifold to Euclidean Subspace Learning with Distance Covariance Representation for Hyperspectral Image Classification  
 * ASPC  
 Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training Samples  
 * ASSMN  
