@@ -1,0 +1,95 @@
+#Config
+
+### Data Generation
+#glob path to sensor data, recursive wildcards allowed
+rgb_sensor_pool: /orange/ewhite/NeonData/OSBS/DP3.30010.001/**/Camera/**/*.tif 
+HSI_sensor_pool: /orange/ewhite/NeonData/OSBS/DP3.30006.001/**/Reflectance/*.h5
+CHM_pool: /orange/ewhite/NeonData/**/CanopyHeightModelGtif/*.tif
+HSI_tif_dir: /orange/idtrees-collab/Hyperspectral_tifs/year/
+
+#NEON data filtering
+min_stem_diameter: 10
+
+#Minimum number of test samples per class to be included
+min_train_samples: 10
+min_test_samples: 10
+
+#Iterations to search for the best train-test split that mantains the largest number of species. Set to 1 for debugging, no files will be written
+iterations: 100
+
+#minimum CHM height, leave blank to skip CHM filtering
+min_CHM_height: 1
+#Max difference between measured height and CHM height if CHM > height
+max_CHM_diff: 4
+#Max difference between measured height and CHM height if CHM < height
+CHM_height_limit: 8
+
+#Megaplot XY Data, these are .shp files saved as the siteID
+megaplot_dir: /orange/idtrees-collab/megaplot/
+
+#Crop generation, whether to make a new dataset and customize which parts to recreate
+#Checkout data artifact from comet
+use_data_commit: 67ec871c49cf472c8e1ae70b185addb1
+
+#Make new dataset
+data_dir: /blue/ewhite/b.weinstein/DeepTreeAttention/
+convert_h5: True
+#Overwrite existing crops
+replace: True
+#Use existing plotIDs for train/test split
+new_train_test_split: True
+
+#How many samples from non-osbs sites can we use per species
+samples_from_other_sites: 0
+oaks_sampling_ceiling: 200
+other_sampling_ceiling: 500
+evergreen_ceiling: 70
+
+# Data loader
+#resized Pixel size of the crowns. Square crops around each pixel of size x are used
+image_size: 11
+preload_images: True
+workers: 20
+sampling_ceiling: 200
+#Network Parameters
+pretrain_state_dict:
+
+gpus: 1
+batch_size: 128
+bands: 349
+
+#LR for each level x year
+lr_0: 0.000001
+lr_1: 0.000001
+lr_2: 0.000005
+lr_3: 0.0001
+lr_4: 0.000005
+
+fast_dev_run: False
+accelerator: auto
+epochs: 70
+min_loss_weight: 10
+
+#Evaluation config
+#Top k class recall score
+top_k: 4
+#Number of individuals to plot in comet graphics tab
+plot_n_individuals: 0
+
+#Predict
+predict_batch_size: 64
+dead_threshold: 0.95
+prediction_crop_dir: /blue/ewhite/b.weinstein/DeepTreeAttention/results/crops/
+
+#Comet dashboard
+comet_workspace: bw4sz
+
+## Alive Dead Model Training
+dead:
+    train_dir: data/raw/dead_train/
+    test_dir: data/raw/dead_test/
+    epochs: 40
+    lr: 0.0001
+    savedir: /orange/idtrees-collab/DeepTreeAttention/Dead/snapshots/
+    batch_size: 128
+    num_workers: 0
