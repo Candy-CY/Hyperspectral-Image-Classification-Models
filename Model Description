@@ -24,6 +24,8 @@ Double-Branch Dual-Attention Mechanism Network for Hyperspectral Image Classific
 Dual Context Network with Transformer for Hyperspectral Image Classification  
 * DDCD  
 LiteDenseNet: A Lightweight Network for Hyperspectral Image Classification  
+* DM-MRN  
+Multistage Relation Network With Dual-Metric for Few-Shot Hyperspectral Image Classification  
 * DPRN  
 Deep Pyramidal Residual Networks for Hyperspectral Image Classification  
 * DRGCN  
