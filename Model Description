@@ -58,6 +58,8 @@ Mixed Convolutions with Vision Transformer in Hyperspectral Image Classification
 Multilevel Superpixel Structured Graph U-Nets for Hyperspectral Image Classification  
 * MUNet  
 Multimodal Hyperspectral Unmixing Insights From Attention Networks  
+* MVAHN  
+Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification  
 * Machine_Learning_Methods  
 No paper! The project uses the CNN models、the KNN method、the SVM method as classifier in hyperspectral image classification  
 * S3Net  
