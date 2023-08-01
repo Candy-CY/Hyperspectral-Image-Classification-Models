@@ -1,0 +1,6 @@
+Tree Species Prediction for the National Ecological Observatory Network (NEON)
+
+Implementation of Hang et al. 2020 Hyperspectral Image Classification with Attention Aided CNNs for tree species prediction.
+
+
+https://github.com/weecology/DeepTreeAttention
