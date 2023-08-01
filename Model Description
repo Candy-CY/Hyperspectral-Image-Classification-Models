@@ -70,6 +70,8 @@ Spectral Spatial Feature Tokenization Transformer for Hyperspectral Image Classi
 Spectral-Spatial Global Graph Reasoning for Hyperspectral Image Classification  
 * SSMTR  
 Spectral–Spatial Masked Transformer With Supervised and Contrastive Learning for Hyperspectral Image Classification  
+* SSNSC  
+Spectral-Spatial Nearest Subspace Classifier for Hyperspectral Image Classification  
 * SSRN  
 Spectral–Spatial Residual Network for Hyperspectral Image Classification  
 * SSTN  
