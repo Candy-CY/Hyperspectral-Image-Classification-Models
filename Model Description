@@ -35,8 +35,7 @@ Dual Residual Graph Convolutional Network for Hyperspectral Image Classification
 * DeepMatrixCapsules  
 Hyperspectral Image Classification Using Deep Matrix Capsules  
 * DeepTreeAttention  
-Implementation of Hang et al. 2020 [Hyperspectral Image Classification with Attention Aided CNNs](https://arxiv.org/abs/2005.11977) for tree species prediction.  
-Hyperspectral Image Classification with Attention Aided CNNs  
+Hyperspectral Image Classification with Attention Aided CNNs (https://arxiv.org/abs/2005.11977)  
 * ENL-FCN  
 Efficient Deep Learning of Non-local Features for Hyperspectral Image Classification  
 * F2HNN  
