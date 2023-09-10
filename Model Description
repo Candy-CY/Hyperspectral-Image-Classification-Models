@@ -12,6 +12,8 @@ Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training
 Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification  
 * CMR-CNN  
 Cross-Mixing Residual Network for Hyperspectral Image Classification
+* CNCMN 
+Composite Neighbor-Aware Convolutional Metric Networks for Hyperspectral Image Classification
 * CNN_Enhanced_GCN  
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification  
 * CTN  
