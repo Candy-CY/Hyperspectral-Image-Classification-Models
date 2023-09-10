@@ -11,9 +11,9 @@ Adaptive Spatial Pyramid Constraint for HSI Classification With Limited Training
 * ASSMN  
 Adaptive Spectral–Spatial Multiscale Contextual Feature Extraction for Hyperspectral Image Classification  
 * CMR-CNN  
-Cross-Mixing Residual Network for Hyperspectral Image Classification
+Cross-Mixing Residual Network for Hyperspectral Image Classification  
 * CNCMN 
-Composite Neighbor-Aware Convolutional Metric Networks for Hyperspectral Image Classification
+Composite Neighbor-Aware Convolutional Metric Networks for Hyperspectral Image Classification  
 * CNN_Enhanced_GCN  
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification  
 * CTN  
@@ -89,6 +89,8 @@ Spectral–Spatial Residual Network for Hyperspectral Image Classification
 Spatial-Spectral Transformer for Hyperspectral Image Classification  
 * SpectralFormer  
 SpectralFormer Rethinking Hyperspectral Image Classification With Transformers  
+* TCRL  
+TCRL: Triple Contrastive Representation Learning for Hyperspectral Image Classification With Noisy Labels  
 * TP-Net  
 A-Triple-Path-Spectral-Spatial-Network-with-Interleave-Attention-for-Hyperspectral-Image-Classificat For HSI classification  
 * morphFormer   
