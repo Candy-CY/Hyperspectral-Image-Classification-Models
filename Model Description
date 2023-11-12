@@ -16,6 +16,8 @@ Cross-Mixing Residual Network for Hyperspectral Image Classification
 Composite Neighbor-Aware Convolutional Metric Networks for Hyperspectral Image Classification  
 * CNN_Enhanced_GCN  
 CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification  
+* CS2DT  
+Cross Spatial–Spectral Dense Transformer for Hyperspectral Image Classification  
 * CTN  
 Convolutional Transformer Network for Hyperspectral Image Classification  
 * CVSSN  
