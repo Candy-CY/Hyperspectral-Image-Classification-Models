@@ -20,6 +20,8 @@ CNN-Enhanced Graph Convolutional Network With Pixel- and Superpixel-Level Featur
 Cross Spatial–Spectral Dense Transformer for Hyperspectral Image Classification  
 * CTN  
 Convolutional Transformer Network for Hyperspectral Image Classification  
+* CVNNs  
+Attention based Dual-Branch Complex Feature Fusion Network for Hyperspectral Image Classification  
 * CVSSN  
 Exploring the Relationship between Center and Neighborhoods: Central Vector oriented Self-Similarity Network for Hyperspectral Image Classification  
 * DBDA  
