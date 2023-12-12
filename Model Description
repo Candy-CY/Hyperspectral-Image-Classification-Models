@@ -50,6 +50,8 @@ A Fast Dense Spectral–Spatial Convolution Network Framework for Hyperspectral 
 Faster hyperspectral image classification based on selective kernel mechanism using deep convolutional networks  
 * GCN_TGRS_DFH  
 Graph Convolutional Networks for Hyperspectral Image Classification  
+* HKNAS  
+Classification of Hyperspectral Imagery Based on Hyper Kernel Neural Architecture Search  
 * HSI_DeepLearning_Review  
 Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks  
 * HyT_NAS  
