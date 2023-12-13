@@ -48,6 +48,8 @@ Hyperspectral Image Classification Using Feature Fusion Hypergraph Convolution N
 A Fast Dense Spectral–Spatial Convolution Network Framework for Hyperspectral Images Classification
 * FSKNet  
 Faster hyperspectral image classification based on selective kernel mechanism using deep convolutional networks  
+* FullyContNet  
+Fully Contextual Network for Hyperspectral Scene Parsing  
 * GCN_TGRS_DFH  
 Graph Convolutional Networks for Hyperspectral Image Classification  
 * HKNAS  
