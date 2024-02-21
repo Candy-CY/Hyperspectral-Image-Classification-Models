@@ -80,6 +80,8 @@ No paper! The project uses the CNN models、the KNN method、the SVM method as c
 S3Net: Spectral-Spatial Siamese Network for Few-Shot Hyperspectral Image Classification  
 * SACNet  
 Self-Attention Context Network Addressing the Threat of Adversarial Attacks for Hyperspectral Image Classification  
+* SSDC  
+Spectral-Spatial Distribution Consistent Network Based on Meta-Learning for Cross-Domain Hyperspectral Image Classification  
 * SSFTT  
 Spectral Spatial Feature Tokenization Transformer for Hyperspectral Image Classification  
 * SSGRN  
