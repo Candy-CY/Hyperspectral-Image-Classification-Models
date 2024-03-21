@@ -64,6 +64,8 @@ Deep Feature Extraction and Classification of Hyperspectral Images Based on Conv
 Grafting Transformer on Automatically Designed Convolutional Neural Network for Hyperspectral Image Classification  
 * HybridSN  
 HybridSN Exploring 3D-2D Feature for Hyperspectral Image Classification  
+* LFSMIM  
+A Low-Frequency Spectral Masked Image Modeling Method for Hyperspectral Image Classification  
 * LMSS-NAS  
 Lightweight Multiscale Neural Architecture Search With Spectral–Spatial Attention for Hyperspectral Image Classification  
 * MAFN  
