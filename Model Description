@@ -32,6 +32,8 @@ Double-Branch Dual-Attention Mechanism Network for Hyperspectral Image Classific
 Dual Context Network with Transformer for Hyperspectral Image Classification  
 * DDCD  
 LiteDenseNet: A Lightweight Network for Hyperspectral Image Classification  
+* DKDMN  
+Data and knowledge-driven deep multiview fusion network based on diffusion model for hyperspectral image classification  
 * DM-MRN  
 Multistage Relation Network With Dual-Metric for Few-Shot Hyperspectral Image Classification  
 * DPRN  
