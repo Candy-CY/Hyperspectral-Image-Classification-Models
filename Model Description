@@ -60,6 +60,8 @@ Fully Contextual Network for Hyperspectral Scene Parsing
 Graph Convolutional Networks for Hyperspectral Image Classification  
 * HKNAS  
 Classification of Hyperspectral Imagery Based on Hyper Kernel Neural Architecture Search  
+* HSIC-FM  
+Overcoming the Barrier of Incompleteness: A Hyperspectral Image Classification Full Model  
 * HSI_DeepLearning_Review  
 Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks  
 * HyT_NAS  
