@@ -110,6 +110,8 @@ Spectral–Spatial Residual Network for Hyperspectral Image Classification
 Spatial-Spectral Transformer for Hyperspectral Image Classification  
 * SpectralFormer  
 SpectralFormer Rethinking Hyperspectral Image Classification With Transformers  
+* SpectralGPT  
+SpectralGPT: Spectral Remote Sensing Foundation Model  
 * TCRL  
 TCRL: Triple Contrastive Representation Learning for Hyperspectral Image Classification With Noisy Labels  
 * TP-Net  
