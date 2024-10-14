@@ -1,0 +1,13 @@
+```
+@ARTICLE{MambaHSI_TGRS24,
+  author={Li, Yapeng and Luo, Yong and Zhang, Lefei and Wang, Zengmao and Du, Bo},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Hyperspectral Image Classification;Mamba;State Space Models;Transformer},
+  doi={10.1109/TGRS.2024.3430985}}
+```
+# MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification
