@@ -86,6 +86,8 @@ Multimodal Hyperspectral Unmixing Insights From Attention Networks
 Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Classification  
 * Machine_Learning_Methods  
 No paper! The project uses the CNN models、the KNN method、the SVM method as classifier in hyperspectral image classification  
+* MambaHSI  
+MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification    
 * OSICN  
 Can Spectral Information Work While Extracting Spatial Distribution? — An Online Spectral Information Compensation Network for HSI Classification  
 * S3Net  
