@@ -1,0 +1,13 @@
+HSIMAE：A Unified Masked Autoencoder with Large-scale Pretraining for Hyperspectral Image Classification
+
+Classification Dataset: Salinas、Pavia University、Houston 2013、WHU-Hi-LongKou
+
+```
+@ARTICLE{10607879,
+  author={Wang, Yue and Wen, Ming and Zhang, Hailiang and Sun, Jinyu and Yang, Qiong and Zhang, Zhimin and Lu, Hongmei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={HSIMAE: A Unified Masked Autoencoder with Large-scale Pre-training for Hyperspectral Image Classification}, 
+  year={2024},
+  doi={10.1109/JSTARS.2024.3432743}
+}
+```
