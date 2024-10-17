@@ -62,6 +62,8 @@ Graph Convolutional Networks for Hyperspectral Image Classification
 Classification of Hyperspectral Imagery Based on Hyper Kernel Neural Architecture Search  
 * HSIC-FM  
 Overcoming the Barrier of Incompleteness: A Hyperspectral Image Classification Full Model  
+* HSIMAE  
+HSIMAE：A Unified Masked Autoencoder with Large-scale Pretraining for Hyperspectral Image Classification  
 * HSI_DeepLearning_Review  
 Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks  
 * HyT_NAS  
