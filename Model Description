@@ -80,6 +80,8 @@ Hyperspectral image classification with multiattention fusion network
 3D Octave and 2D Vanilla Mixed Convolutional Neural Network for Hyperspectral Image Classification with Limited Samples  
 * MRViT  
 Mixed Convolutions with Vision Transformer in Hyperspectral Image Classification  
+* MSA-GCN  
+Interactive Enhanced Network Based on Multihead Self-Attention and Graph Convolution for Classification of Hyperspectral and LiDAR Data  
 * MSSG-UNet  
 Multilevel Superpixel Structured Graph U-Nets for Hyperspectral Image Classification  
 * MUNet  
