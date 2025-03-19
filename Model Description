@@ -96,6 +96,8 @@ Multiple Vision Architectures-based Hybrid Network for Hyperspectral Image Class
 No paper! The project uses the CNN models、the KNN method、the SVM method as classifier in hyperspectral image classification  
 * MambaHSI  
 MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification    
+* NCGLF2  
+NCGLF2：Network combining global and local features for fusion of multisource remote sensing data     
 * OSICN  
 Can Spectral Information Work While Extracting Spatial Distribution? — An Online Spectral Information Compensation Network for HSI Classification  
 * S3Net  
