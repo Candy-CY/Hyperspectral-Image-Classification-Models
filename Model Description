@@ -30,6 +30,8 @@ Attention based Dual-Branch Complex Feature Fusion Network for Hyperspectral Ima
 Exploring the Relationship between Center and Neighborhoods: Central Vector oriented Self-Similarity Network for Hyperspectral Image Classification  
 * DADBN  
 Hyperspectral Image Classification Based on Domain Adversarial Broad Adaptation Network  
+* DACNET  
+Efficient Dynamic Attention 3D Convolution for Hyperspectral Image Classification  
 * DBDA  
 Double-Branch Dual-Attention Mechanism Network for Hyperspectral Image Classification  
 * DCN-T  
