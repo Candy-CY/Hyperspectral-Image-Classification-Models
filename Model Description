@@ -80,6 +80,8 @@ Grafting Transformer on Automatically Designed Convolutional Neural Network for 
 HybridSN Exploring 3D-2D Feature for Hyperspectral Image Classification  
 * HypelCNN  
 A Deep Learning Classification Framework with Spectral and Spatial Feature Fusion Layers for Hyperspectral and Lidar Sensor Data  
+* HyLiOSR  
+HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data  
 * LFSMIM  
 A Low-Frequency Spectral Masked Image Modeling Method for Hyperspectral Image Classification  
 * LMSS-NAS  
