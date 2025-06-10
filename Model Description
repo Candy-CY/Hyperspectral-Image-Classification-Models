@@ -50,6 +50,8 @@ Dual Residual Graph Convolutional Network for Hyperspectral Image Classification
 Hyperspectral Image Classification Using Deep Matrix Capsules  
 * DeepTreeAttention  
 Hyperspectral Image Classification with Attention Aided CNNs (https://arxiv.org/abs/2005.11977)  
+* DSFormer  
+Dual Selective Fusion Transformer Network for Hyperspectral Image Classification    
 * ENL-FCN  
 Efficient Deep Learning of Non-local Features for Hyperspectral Image Classification  
 * F2HNN  
