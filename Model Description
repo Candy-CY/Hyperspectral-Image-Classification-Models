@@ -92,6 +92,8 @@ Lightweight Multiscale Neural Architecture Search With Spectral–Spatial Attent
 Hyperspectral image classification with multiattention fusion network  
 * MCNN-based_HSI_Classification  
 3D Octave and 2D Vanilla Mixed Convolutional Neural Network for Hyperspectral Image Classification with Limited Samples  
+* MIEPN  
+Multidimensional Information Expansion and Processing Network for Hyperspectral Image Classification  
 * MRViT  
 Mixed Convolutions with Vision Transformer in Hyperspectral Image Classification  
 * MSA-GCN  
@@ -114,6 +116,10 @@ Can Spectral Information Work While Extracting Spatial Distribution? — An Onli
 S3Net: Spectral-Spatial Siamese Network for Few-Shot Hyperspectral Image Classification  
 * SACNet  
 Self-Attention Context Network Addressing the Threat of Adversarial Attacks for Hyperspectral Image Classification  
+* SGMAE  
+SGMAE:Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classification  
+* SKDN  
+Random Shuffling Data for Hyperspectral Image Classification with Siamese and Knowledge Distillation Network  
 * SSDC  
 Spectral-Spatial Distribution Consistent Network Based on Meta-Learning for Cross-Domain Hyperspectral Image Classification  
 * SSFTT  
