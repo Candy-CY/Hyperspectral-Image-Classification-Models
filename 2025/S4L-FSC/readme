@@ -1,0 +1,13 @@
+Spectral-Spatial Self-Supervised Learning for Few-Shot Hyperspectral Image Classification
+
+This repository contains the official PyTorch implementation for the paper: 
+Spectral-Spatial Self-Supervised Learning for Few-Shot Hyperspectral Image Classification Wenchen Chen, Yanmei Zhang, Zhongwei Xiao, Jianping Chu, Xingbo Wang [arXiv paper]. 
+This is the author's first time open-sourcing code, so please feel free to point out any errors or provide suggestions.
+
+If possible, please give the author a star.
+
+The work in this project is based on the excellent open-source projects DCFSL (available at https://github.com/Li-ZK/DCFSL-2021) 
+and FSCF-SSL (available at https://github.com/Li-ZK/FSCF-SSL-2023). We express our sincere gratitude to their creators for the invaluable resources 
+they have provided to the community and for the solid foundation upon which this work is built.
+
+源码地址：https://github.com/Wenchen-Chen/S4L-FSC
