@@ -158,9 +158,8 @@ Spectral-Spatial Self-Supervised Learning for Few-Shot Hyperspectral Image Class
 MTLSC-Diff: Multitask learning with diffusion models for hyperspectral image super-resolution and classification  
 * MLPA  
 Multi-Level Prototype Alignment for Cross-Domain Few-Shot Hyperspectral Image Classification  
-*    
-   
-
+* Hyper-LKCNet  
+Hyper-LKCNet: Exploring the Utilization of Large Kernel Convolution for Hyperspectral Image Classification  
 
 
 
