@@ -150,3 +150,14 @@ Spectral–Spatial Morphological Attention Transformer for Hyperspectral Image C
 Deep Pyramidal Residual Networks for Hyperspectral Image Classification  
 * CTF-SSCL  
 CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning  
+* MCMD-CFSL  
+A Multimodal Prototype Correction and Multidimensional Knowledge Distillation Framework for Cross-Domain Few-Shot Hyperspectral Image Classification  
+
+
+
+
+
+
+
+* CTF-SSCL  
+CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning  
