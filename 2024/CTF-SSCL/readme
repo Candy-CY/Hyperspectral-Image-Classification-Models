@@ -1,0 +1,4 @@
+CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning, TGRS, 2024.
+Bobo Xi, Yun Zhang, Jiaojiao Li, Yunsong Li, Zan Li and Jocelyn Chanussot.
+Code for the paper: CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning.
+源码地址：https://github.com/B-Xi/CTF-SSCL
