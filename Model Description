@@ -152,6 +152,8 @@ Deep Pyramidal Residual Networks for Hyperspectral Image Classification
 CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning  
 * MCMD-CFSL  
 A Multimodal Prototype Correction and Multidimensional Knowledge Distillation Framework for Cross-Domain Few-Shot Hyperspectral Image Classification  
+* S4L-FSC  
+Spectral-Spatial Self-Supervised Learning for Few-Shot Hyperspectral Image Classification  
 
 
 
@@ -159,5 +161,4 @@ A Multimodal Prototype Correction and Multidimensional Knowledge Distillation Fr
 
 
 
-* CTF-SSCL  
-CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning  
+
