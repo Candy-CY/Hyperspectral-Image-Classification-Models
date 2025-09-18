@@ -154,7 +154,12 @@ CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assist
 A Multimodal Prototype Correction and Multidimensional Knowledge Distillation Framework for Cross-Domain Few-Shot Hyperspectral Image Classification  
 * S4L-FSC  
 Spectral-Spatial Self-Supervised Learning for Few-Shot Hyperspectral Image Classification  
-
+* MTLSC-Diff    
+MTLSC-Diff: Multitask learning with diffusion models for hyperspectral image super-resolution and classification  
+*    
+   
+*    
+   
 
 
 
