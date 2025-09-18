@@ -160,8 +160,8 @@ MTLSC-Diff: Multitask learning with diffusion models for hyperspectral image sup
 Multi-Level Prototype Alignment for Cross-Domain Few-Shot Hyperspectral Image Classification  
 * Hyper-LKCNet  
 Hyper-LKCNet: Exploring the Utilization of Large Kernel Convolution for Hyperspectral Image Classification  
-
-
+* S2PST  
+Spectral Structure-Aware Initialization and Probability-Consistent Self-Training for Cross-scene Hyperspectral Image Classification  
 
 
 
