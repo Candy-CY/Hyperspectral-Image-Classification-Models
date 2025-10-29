@@ -90,6 +90,8 @@ A Low-Frequency Spectral Masked Image Modeling Method for Hyperspectral Image Cl
 Lightweight Multiscale Neural Architecture Search With Spectral–Spatial Attention for Hyperspectral Image Classification  
 * MAFN  
 Hyperspectral image classification with multiattention fusion network  
+* MambaMoE  
+MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification  
 * MCNN-based_HSI_Classification  
 3D Octave and 2D Vanilla Mixed Convolutional Neural Network for Hyperspectral Image Classification with Limited Samples  
 * MIEPN  
