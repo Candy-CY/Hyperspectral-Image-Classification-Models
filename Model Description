@@ -114,6 +114,8 @@ MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification
 NCGLF2：Network combining global and local features for fusion of multisource remote sensing data     
 * OSICN  
 Can Spectral Information Work While Extracting Spatial Distribution? — An Online Spectral Information Compensation Network for HSI Classification  
+* PHDMamba  
+PHDMamba: Progressive Hybrid Mamba for Hyperspectral Image Classification  
 * S3Net  
 S3Net: Spectral-Spatial Siamese Network for Few-Shot Hyperspectral Image Classification  
 * SACNet  
