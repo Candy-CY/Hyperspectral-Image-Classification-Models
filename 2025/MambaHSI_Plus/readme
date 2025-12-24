@@ -1,0 +1,12 @@
+# https://github.com/RockAilab/MambaHSI_Plus
+
+
+@ARTICLE{Wang_MambaHSI_Plus_TGRS2025, 
+  author={Wang, Yunbiao and Liu, Lupeng and Xiao, Jun and Yu, Dongbo and Tao, Ye and Zhang, Wenniu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={MambaHSI+: Multidirectional State Propagation for Efficient Hyperspectral Image Classification}, 
+  year={2025},
+  volume={63},
+  pages={1-14},
+  doi={10.1109/TGRS.2025.3576656}
+}
