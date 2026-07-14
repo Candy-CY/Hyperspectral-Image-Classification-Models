@@ -128,6 +128,8 @@ SGMAE:Self-Supervised Graph Masked Autoencoders for Hyperspectral Image Classifi
 Random Shuffling Data for Hyperspectral Image Classification with Siamese and Knowledge Distillation Network  
 * SSDC  
 Spectral-Spatial Distribution Consistent Network Based on Meta-Learning for Cross-Domain Hyperspectral Image Classification  
+* SSFTM  
+Spectral State Fusion Tree Mamba for Hyperspectral Image Classification  
 * SSFTT  
 Spectral Spatial Feature Tokenization Transformer for Hyperspectral Image Classification  
 * SSGRN  
